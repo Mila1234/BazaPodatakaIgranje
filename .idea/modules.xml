@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BazaPodatakaIgranje.iml" filepath="$PROJECT_DIR$/.idea/modules/BazaPodatakaIgranje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BazaPodatakaIgranje_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BazaPodatakaIgranje_main.iml" group="BazaPodatakaIgranje" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BazaPodatakaIgranje_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BazaPodatakaIgranje_test.iml" group="BazaPodatakaIgranje" />
+    </modules>
+  </component>
+</project>
